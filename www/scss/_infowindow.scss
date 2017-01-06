@@ -8,10 +8,10 @@
 		}
 	}
 	&:first-child > div {
-		background-color: $stable !important;
+		background-color: $balanced !important;
 		box-shadow: none !important;
 		> div > div {
-			background-color: $stable !important;
+			background-color: $balanced !important;
 		}
 	}
 }
